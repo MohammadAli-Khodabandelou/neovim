@@ -2226,6 +2226,7 @@ static void usage(void)
   os_msg(_("  --remote[-subcommand] Execute commands remotely on a server\n"));
   os_msg(_("  --server <address>    Specify RPC server to send commands to\n"));
   os_msg(_("  --startuptime <file>  Write startup timing messages to <file>\n"));
+  on_msg(_("  --mamali              Just on fun argument that do nothing!\n"));
   os_msg(_("\nSee \":help startup-options\" for all options.\n"));
 }
 
